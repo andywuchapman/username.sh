@@ -22,6 +22,7 @@ Edit the **username.sh** file so that it:
 * Prompts the user to try again if it does not.
 
 Edit this README file so that it describes your script and not the assignment
+Complete the innformaton below
  
 
 ## Identifying Information
