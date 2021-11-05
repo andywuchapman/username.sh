@@ -45,7 +45,7 @@ Complete the innformaton below
 
 *
 
-## Build Insructions
+## Build Instructions
 
 *
 
