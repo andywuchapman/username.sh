@@ -1,8 +1,7 @@
 # username
 A bash script to check whether a string satisfies the requirements for a username.
 
-This repo contains a **zip.sh** bash script that checks whether a string is a valid 5 digit zip code.
-It is to be used as the starting point for a script to check whether a string satisfies the requirements for a username.
+This repo contains a bash script to check whether a string satisfies the requirements for a username.
 
 The requirements for a username are:
 * The only characters that can be used are 
@@ -12,10 +11,7 @@ The requirements for a username are:
 * It must start with a lower case letter
 * It must contain at least three but no more than 12 characters
 
-Copy the **zip.sh** file to a file named **username.sh**
-Edit the **username.sh** file so that it:
-* Contains your name as the author
-* Contains the correct name of the file
+The program:
 * Displays the rules to the user
 * Prompts to user to type a username
 * Checks to see if the string typed by the user obeys the rules.
@@ -27,28 +23,28 @@ Complete the innformaton below
 
 ## Identifying Information
 
-* Name:
-* Student ID:
-* Email:
-* Course:
-* Assignment:
+* Name:Andy Wu
+* Student ID:2451834
+* Email:andywu@chapman.edu
+* Course:CPSC 298
+* Assignment:username.sh
 
 ## Source Files
-
+username.sh
 *
 
 ## References
-
+n/a
 *
 
 ## Known Errors
-
+n/a
 *
 
 ## Build Instructions
-
+n/a
 *
 
 ## Execution Instructions
-
+run ./username.sh
 *
